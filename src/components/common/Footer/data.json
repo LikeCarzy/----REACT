@@ -1,0 +1,34 @@
+[
+    {
+        "id": "0",
+        "type": "bookmark-o",
+        "text": "首页",
+        "t": "/"
+    },
+    {
+        "id": "1",
+        "type": "bars",
+        "text": "分类",
+        "t": "/fenlei"
+    },
+    {
+        "id": "2",
+        "type": "eye",
+        "text": "编辑精选"
+    },
+    {
+        "id": "3",
+        "type": "diamond",
+        "text": "品牌"
+    },
+    {
+        "id": "4",
+        "type": "child",
+        "text": "我的",
+        "t": "/my"
+    }
+]
+
+
+
+

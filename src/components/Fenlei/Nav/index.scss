@@ -1,0 +1,72 @@
+.Nav-app-box{
+    height: 100%;
+    width: 100%;
+    position: relative;
+    top: 1rem;
+    .nav-box{
+        height: 1rem;
+        width: 100%;
+        border-bottom: 1px solid #ccc;
+        span{
+            font-size: 0.30rem;
+            width: 33.33%;
+            height: 100%;
+            text-align: center;
+            line-height: 1rem;
+            display: inline-block;
+        }
+        span#active{
+            font-weight: 700;
+        }
+    }
+    .content-box{
+        width: 100%;
+        height: 100%;
+        ul{
+            li{
+                width: 100%;
+                height: 1rem;
+                line-height: 1rem;
+                a{
+                    display: block;
+                    overflow: hidden;
+                    border-bottom: 1px solid #ccc;
+                    color: #000;
+                    img{
+                        width: 0.5rem;
+                        height: 0.5rem;
+                        float: left;
+                        margin-top: 0.2rem;
+                        margin-left: 0.3rem;
+                    }
+                    span{
+                        float: left;
+                        margin-left: 0.3rem;
+                    }
+                    .right{
+                        float: right;
+                        margin-right: 0.3rem;
+                        margin-top: 0.3rem;
+                    }
+                }
+                // div.fenlei-z-box{        //分类子菜单
+                //     background: #d3d3d3;
+                //     width: 100%;
+                //     overflow: hidden;
+                //     padding-bottom: 0.3rem;
+                //     text-align: left;
+                //     span{
+                //         display: inline-block;
+                //         margin-left: 0.1rem;
+                //         margin-right: 0.1rem;
+                //     }
+                // }
+            }
+            li:last-child{
+                span{
+                    color: #c62026;
+                }
+            }
+        }
+    }
+}

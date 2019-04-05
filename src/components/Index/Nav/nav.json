@@ -1,0 +1,40 @@
+[
+    {
+        "id": "0",
+        "text": "推荐",
+        "/index/ly": "tj"
+    },
+    {
+        "id": "1",
+        "text": "女士",
+        "/index/ly": "ns"
+    },
+    {
+        "id": "2",
+        "text": "男士",
+        "/index/ly": "nans"
+    },
+    {
+        "id": "3",
+        "text": "包袋",
+        "/index/ly": "bd"
+    },
+    {
+        "id": "4",
+        "text": "鞋靴",
+        "/index/ly": "xx"
+    },
+    {
+        "id": "5",
+        "text": "腕表",
+        "/index/ly": "wb"
+    },
+    {
+        "id": "6",
+        "text": "儿童"
+    },
+    {
+        "id": "7",
+        "text": "专柜"
+    }
+]

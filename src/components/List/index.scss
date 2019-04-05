@@ -1,0 +1,69 @@
+.List-app-box{
+    width: 100%;
+    position: relative;
+    top: 0;
+    left: 0;
+    .cz-box{
+        height: 1rem;
+        width: 100%;
+        background: #fff;
+        border-bottom: 1px solid #ccc;
+        position: fixed;
+        top: 1rem;
+        left: 0;
+        z-index: 11;
+        ul{
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+            li{
+                width: 50%;
+                height: 100%;
+                text-align: center;
+                float: left;
+                line-height: 1rem;
+                font-size: 0.30rem;
+                color: #ccc;
+            }
+        }
+    }
+    .content-box{
+        width: 100%;
+        position: absolute;
+        top: 2rem;
+        left: 0;
+        overflow: hidden;
+        div.item-box{
+            width: 50%;
+            height: 7rem;
+            float: left;
+            a{
+                display: block;
+                width: 100%;
+                height: 100%;
+                color: #000;
+                div.img-box{
+                    width: 100%;
+                    img{
+                        width: 100%;
+                    }
+                }
+                div.text-box{
+                    text-align: center;
+                    div.kon{
+                        width: 100%;
+                        height: 0.5rem;
+                    }
+                    h5{
+
+                    }
+                    p{
+                        em{
+                            color: red;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,18 @@
+.Nav-box{
+    position: fixed;
+    width: 100%;
+    height: 0.6rem;
+    top: 1rem;
+    left: 0;
+    z-index: 10;
+    background: #fff;
+    div{
+        height: 100%;
+        line-height: 0.6rem;
+        text-align: center;
+    }
+    div#active{
+        background: red;
+        color: #fff;
+    }
+}

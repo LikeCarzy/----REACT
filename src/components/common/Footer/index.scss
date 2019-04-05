@@ -1,0 +1,23 @@
+.Footer-app-box{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    z-index: 12;
+    height: 1rem;
+    width: 100%;
+    background: #fff;
+    overflow: hidden;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-top: 1px solid #ccc;
+    a{
+        color: #ccc;
+        img{
+        }
+        span{
+            display: block;
+            height: 0.5rem;
+        }
+    }
+}

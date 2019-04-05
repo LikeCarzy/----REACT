@@ -1,0 +1,67 @@
+.index-app-box{
+    div.gg{
+        position: relative;
+        top: 1.6rem;
+        left: 0;
+        a{
+            display: block;
+        }
+        a.gg1{
+            height: 5rem;
+            img{
+                width: 100%;
+                height: 5rem;
+            }
+        }
+        a.gg2{
+            img{
+                width: 100%;
+            }
+        }
+        a.gg3{
+            img{
+                width: 100%;
+            }
+        }
+        div.xh{
+            width: 100%;
+            height: 6rem;
+            div.swiper-slide{
+                height: 100%;
+                div.img{
+                    img{
+                        width: 2.4rem;
+                        height: 3.2rem;
+                    }
+                }
+                div.text{
+                    height: 1.3rem;
+                    position: relative;
+                    p{
+                        color: red;
+                        position: absolute;
+                        bottom: 0;
+                        left: 0.8rem;
+                    }
+                }
+            }
+            h3{
+                margin-top: 0.3rem;
+                span{
+                    background: #0700c5;
+                    color: #fff;
+                    font-size: 0.30rem;
+                    padding: 0.1rem;
+                }
+            }
+        }
+    }
+    div.fg{
+        a{
+            img{
+                width: 100%;
+            }
+        }
+    }
+    padding-bottom: 2rem;
+}
